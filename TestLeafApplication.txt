@@ -1,0 +1,14 @@
+http://www.leaftaps.com/opentaps/control/main
+
+
+Username : DemoSalesManager
+password : crmsfa
+
+
+Homepage
+login
+Createlead click
+Enterdetails
+Submit
+
+Correlation for Submit to capture the lead Id that get generated after submit button.
